@@ -9,12 +9,12 @@ const Hero = () => {
                 <p className="font-semibold">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea dicta nesciunt officiis nostrum modi culpa, fugiat aut perspiciatis doloremque amet.</p>
                 <div className="flex gap-4 items-center md:justify-start justify-center">
                     <button className="primary-btn">Food Menu</button>
-                    <button className="secondary-btn">Book table</button>
+                    <button className="secondary-btn text-black">Book table</button>
                 </div>
             </div>
             {/* image section */}
             <div className="flex flex-col justify-center">
-                <img src={HeroImg} alt="" />
+                <img src={HeroImg} alt="" className="img-shadow max-w-[500px] w-[340px] mx-auto"/>
             </div>
         </div>
     </div>
