@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar/Navbar";
 import TopList from "./components/TopList/TopList";
 import BgImage from "./assets/2.png";
 import Banner from "./components/Banner/Banner";
+import OurServices from "./components/OurServices/OurServices";
 
 const bgStyle = {
   backgroundImage: `url(${BgImage})`,
@@ -19,6 +20,7 @@ function App() {
         <Hero />
         <TopList />
         <Banner />
+        <OurServices />
       </div>
     </div>
   );
