@@ -12,7 +12,7 @@ const Banner = () => {
             {/* text section */}
             <div className="flex flex-col justify-center">
                 <h1 className="text-3xl font-semibold">Food is always good</h1>
-                <p className="py-4 font-semibold">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil delectus ullam accusamus velit pariatur voluptas, dicta nesciunt. Illo corrupti, animi, obcaecati assumenda vitae saepe rerum qui quod iusto autem inventore ut rem ex dolores exercitationem sed. Possimus vero autem id!</p>
+                <p className="py-4 ">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil delectus ullam accusamus velit pariatur voluptas, dicta nesciunt. Illo corrupti, animi, obcaecati assumenda vitae saepe rerum qui quod iusto autem inventore ut rem ex dolores exercitationem sed. Possimus vero autem id!</p>
             </div>
         </div>
       </div>
